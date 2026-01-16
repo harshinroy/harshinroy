@@ -36,18 +36,6 @@ I am a **Data Scientist** passionate about uncovering hidden insights in raw dat
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak graph" />
-</div>
-
-<br/>
 
 ### 🤝 Connect With Me
 
